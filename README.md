@@ -14,3 +14,8 @@ Want to add texts in Juypter notebook ( cell -> cell type -> markdown)
 https://gtribello.github.io/mathNET/assets/notebook-writing.html#:~:text=Writing%20text&text=If%20you%20want%20to%20use,'%20and%20click%20'Markdown'.
 
 
+Python Intermediate
+
+https://pythonprogramming.net/more-list-comprehension-generators-intermediate-python-tutorial/?completed=/list-comprehension-generators-intermediate-python-tutorial/
+
+
