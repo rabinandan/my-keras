@@ -23,11 +23,11 @@ LabelImg : To annotate image
 (Mac Installation)
 
 
-brew install python3
-pip3 install pipenv
-git clone https://github.com/tzutalin/labelImg.git
-cd labelImg/
-pipenv run pip install pyqt5==5.13.2 lxml
-pipenv run make qt5py3
-pipenv run python3 labelImg.py
+* brew install python3
+* pip3 install pipenv
+* git clone https://github.com/tzutalin/labelImg.git
+* cd labelImg/
+* pipenv run pip install pyqt5==5.13.2 lxml
+* pipenv run make qt5py3
+* pipenv run python3 labelImg.py
 
